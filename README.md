@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chanchal-choudhari"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/chanchal-choudhari-53064321b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/chanchalch0udhri"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <a href="https://github.com/chanchal-ch0udhary?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub projects" /></a>
 </p>
 
@@ -80,7 +81,7 @@ Enterprise training in C#, SQL Server, database design and application architect
 ### 🤝 Let's work together
 
 I'm **available to join immediately** for Ruby on Rails or backend engineering roles, on-site in Indore or remote.
-The fastest way to reach me is on **[LinkedIn](https://www.linkedin.com/in/chanchal-choudhari)**.
+The fastest way to reach me is on **[LinkedIn](https://www.linkedin.com/in/chanchal-choudhari-53064321b/)**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=chanchal-ch0udhary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
